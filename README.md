@@ -29,9 +29,9 @@ $ irb
 => false
 >> "deified".palindrome?
 => true
->> "Able was I, ere I saw Elba".palindrome?
+>> "Able was I, ere I saw Elba.".palindrome?
 => true
->> phrase = "Madam, I'm Adam"
+>> phrase = "Madam, I'm Adam."
 >> phrase.palindrome?
 => true
 ```
